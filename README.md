@@ -6,7 +6,7 @@ Open `migrations/2_deploy_contracts.js` file
 
 In the root directory:
 - Install dependencies :`npm install` 
-- Rename .env-sample file to .env and fill the missing values.
+- Rename `.env-sample` file to `.env` and fill the missing values.
 - To compile truffle project: `truffle compile`
 
 ##### For deployment
